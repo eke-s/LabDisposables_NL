@@ -176,7 +176,7 @@ python lib\visualizatie_resultaten_functions.py
 Another useful check might be in the data labelled in the category 'Other', if there are a lot of missing categories/items you would expect to see in the top 12. We use a threshold on the confidence of the predictions of 0.7. You could for example do a manual check on the rows with a confidence between 0.6 and 0.7. Do this by first selecting 'Other' (use `categorie`, column J), and then ordering the confidence of the predictions in descending order (use `predicted_confidence`, column K)
 
 ## Weight Data
-The document `Weight Data Lab Disposables_UMCNL.xlsx` contains all our weight data from laboratory disposables that we gathered. This document is not part of our pipeline. 
+The document `Weight Data Lab Disposables_UMCNL.xlsx` contains all our weight data from laboratory disposables that we gathered. This document is not part of our pipeline, but may be used for other purposes. 
 
 
 ## Further Plans & Updates
