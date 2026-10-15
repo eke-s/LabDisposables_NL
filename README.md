@@ -102,7 +102,8 @@ After changes are made to `main.py`, be sure to save the file before continuing.
 python main.py
 ```
 While the code is running it will update you on the progress made, within the pipeline. Some warnings might appear (see the red box in the screenshot), these are normal. It should look like this:
-<img width="822" height="307" alt="image" src="https://github.com/user-attachments/assets/dec945c6-c2cc-4b09-a078-8d72962d00ab" />
+<img width="822" height="307" alt="image" src="https://github.com/user-attachments/assets/f563707e-aed6-4da6-a1dc-6a9c4c512c50" />
+
 
 
 ### Expected Output Data
