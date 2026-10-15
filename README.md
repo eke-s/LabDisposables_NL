@@ -40,7 +40,7 @@ If you do not have python or VSCode installed, you can find the downloading info
 
 Download the code from this repository, and navigating into the projectfolder in the terminal (within VSCode for example), such that the path looks like this:
 ```bash
-PS C:\Path\To\The\Folder\GitHub\NFULabs2024>
+PS C:\Path\To\The\Folder\LabDisposables_NL-main>
 ```
 ### Requirements
 
@@ -100,8 +100,9 @@ After changes are made to `main.py`, be sure to save the file before continuing.
 ```bash
 python main.py
 ```
-While the code is running it will update you on the progress made, within the pipeline. Some warnings might appear (see the red boxes in the screenshot), these are normal. It should look like this:
-<img width="1017" height="377" alt="output printing final" src="https://github.com/user-attachments/assets/a82e6a5f-8c17-4e17-9e63-1635215f5f53" />
+While the code is running it will update you on the progress made, within the pipeline. Some warnings might appear (see the red box in the screenshot), these are normal. It should look like this:
+<img width="822" height="307" alt="image" src="https://github.com/user-attachments/assets/dec945c6-c2cc-4b09-a078-8d72962d00ab" />
+
 
 ### Expected Output Data
 The output of the pipeline can be found in the folder /results (created when running main.py):
