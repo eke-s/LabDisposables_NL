@@ -159,7 +159,7 @@ Your results might be inaccurate due to outliers. Outliers are a small number of
 #### How to find outliers
 First navigate into `lab_disposables_full_output.xlsx` and filter the data to only show data where `is_included`, column L, is `TRUE`/`WAAR` (other rows are excluded from the analysis/visuals). Thereafter you can select the category you want to investigate (use `categorie`, column J). To see the largest orders, put `stuks_totaal` in a descending order. This allows you to check if there might be suspiciously big orders. In our output data, for a specific category, we had a largest order which seemed unrealistic compared to the 2nd and 3rd biggest orders, after investigating the order (article description, number of packages ordered, items per package, etc.) we concluded this was an outlier due to a mistake in the data:
 
-<img width="359" height="273" alt="image" src="https://github.com/user-attachments/assets/4af7acfa-10e0-40b6-a166-dd0f0d382ef4" />
+<img width="300" height="228" alt="image" src="https://github.com/user-attachments/assets/4af7acfa-10e0-40b6-a166-dd0f0d382ef4" />
 
 If you find an outlier that you suspect might be muddying your results, you can exclude it from the visualisations and `lab_disposables_summary.xlsx`. For that row put `is_included`, column L, to `FALSE`/`ONWAAR`. After you have completed your search for outliers, you can run your results again (see section below).
 
