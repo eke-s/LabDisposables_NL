@@ -10,7 +10,9 @@ The results from the Dutch UMCs showed that twelve product categories together a
 
 **SCOPE: please be aware that the presented methodology was developed in the context of Dutch Univeristy Medical Centers. When using the code outside of this context, the results should be carefully examined to assess validity. This holds true especially for the predictions of the neuronal network, but also for the coverage of data from other contexts in the RegEx patterns and proxy-products. An external validation and optimization project will be performed in the 1st half of 2027. Code will be updated subsequently.**
 
-The full methodology can be found in the (Dutch) report: Landelijke Inventarisatie Klimaatimpact van Laboratoriumdisposables in de Universitaire Medische Centra (2026). Kat, R., Snoeren, E., Snijder, L., de Haas, A., Noort, B., UMCNL-werkgroep Circulaire Bedrijfsvoering. Funded by: Green Deal Duurzame Zorg: https://www.greendealduurzamezorg.nl/projecten/shortlist-van-12-labproducten-met-de-hoogste-klimaatimpact/
+The full methodology can be found in the (Dutch) report: Landelijke Inventarisatie Klimaatimpact van Laboratoriumdisposables in de Universitaire Medische Centra (2026). Kat, R., Snoeren, E., Snijder, L., de Haas, A., Noort, B., UMCNL-werkgroep Circulaire Bedrijfsvoering. Funded by: Green Deal Duurzame Zorg: 
+
+https://www.greendealduurzamezorg.nl/projecten/shortlist-van-12-labproducten-met-de-hoogste-klimaatimpact/
 
 <!-- Table of Contents -->
 # Table of Contents
