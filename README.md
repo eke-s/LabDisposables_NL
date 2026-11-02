@@ -30,7 +30,7 @@ https://www.greendealduurzamezorg.nl/projecten/shortlist-van-12-labproducten-met
   * [Outliers](#outliers)
   * [Other Data](#other-data)
 - [Weight Data](#weight-data)
-- [Further Plans & Updates](#further-plans-&-updates)
+- [Further Plans And Updates](#further-plans-and-updates)
 - [Authors Contact Information](#authors-contact-information)
 
 
@@ -182,7 +182,7 @@ Another useful check might be in the data labelled in the category 'Other', if t
 The document `Weight Data Lab Disposables_UMCNL.xlsx` contains all our weight data from laboratory disposables that we gathered. This document is not part of our pipeline, but may be used for other purposes. 
 
 
-## Further Plans & Updates
+## Further Plans And Updates
 In 2027 we intend to update this github repository with an improved prediction model and turn the code into a python library.
 
 We will additionally be externally validating the code on datasets of research institutions other than academic hostpitals. This will help to improve the code and allow retaining of the prediction model on a larger and more variable dataset. We hope the code will thereafter be more relevant and applicable for organisations outside of the academic hospitals.
